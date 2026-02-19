@@ -24,19 +24,44 @@
 ### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Android](https://img.shields.io/badge/Android%20Fundamentals-20232A?style=for-the-badge&logo=android)
+
+---
 
 ### 💻 Programming Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![Dart](https://img.shields.io/badge/Dart-20232A?style=for-the-badge&logo=dart)
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql)
 
-### ⚙️ Tools & Technologies
+---
+
+### 🧠 State Management & Architecture
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-20232A?style=for-the-badge&logo=redux)
+![React Hooks](https://img.shields.io/badge/React%20Hooks-20232A?style=for-the-badge&logo=react)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-20232A?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-20232A?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-20232A?style=for-the-badge)
+
+---
+
+### 🔥 Backend & Data
 ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow)
+![Firestore](https://img.shields.io/badge/Cloud%20Firestore-20232A?style=for-the-badge&logo=firebase)
+![Realtime DB](https://img.shields.io/badge/Realtime%20DB-20232A?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-20232A?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20APIs-20232A?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios)
+
+---
+
+### ⚙️ Tools & IoT
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
 ![Arduino](https://img.shields.io/badge/Arduino-20232A?style=for-the-badge&logo=arduino)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-20232A?style=for-the-badge)
 
 ---
 
