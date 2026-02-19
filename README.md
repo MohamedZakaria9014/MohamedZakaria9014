@@ -1,6 +1,19 @@
 # Hi 👋, I'm Mohamed Zakaria
 <h3 align="center">🚀 Mobile Developer | React Native & Flutter Enthusiast</h3>
 
+<p align="center">
+  <!-- Contact Icons -->
+  <a href="mailto:Mohamed.Zakariaa.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mohamedzakariaa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/MohamedZakaria9014" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedZakaria9014" alt="Profile Visitors">
+  </a>
+</p>
+
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AE4F7&center=true&vCenter=true&width=500&lines=Mobile+Developer+📱;React+Native+%7C+Flutter;Clean+Code+Advocate;Always+Learning+🚀" /> 
 </p>
@@ -81,9 +94,17 @@
 
 ## 🤝 Connect With Me
 
-- 📧 **Email:** Mohamed.Zakariaa.dev@gmail.com
-- 💼 **LinkedIn:** [Your LinkedIn Link Here]
-- 📍 **Location:** Cairo, Egypt
+<p align="center">
+  <a href="mailto:Mohamed.Zakariaa.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/mohamedzakariaa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/MohamedZakaria9014" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedZakaria9014" alt="Profile Visitors">
+  </a>
+</p>
 
 <p align="center"> 
   ⭐ From <b>Mohamed Zakaria</b> — Building the future one app at a time 🚀 
