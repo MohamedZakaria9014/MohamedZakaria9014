@@ -1,6 +1,6 @@
-<!-- Static Top Name -->
+<!-- Static Top Name - Bigger Font -->
 <p align="center">
-  <span style="font-size:240px; font-weight:600;">Hi 👋, I'm Mohamed Zakaria</span>
+  <span style="font-size:48px; font-weight:700;">Hi 👋, I'm Mohamed Zakaria</span>
 </p>
 
 <!-- Animated Tagline Below -->
