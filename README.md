@@ -1,113 +1,73 @@
-<p align="center">
-  <h1 align="center" style="font-size: 3rem;">Hi 👋, I'm Mohamed Zakaria</h1>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0AE4F7&center=true&vCenter=true&width=600&lines=React+Native+%26+Flutter+Developer;Clean+Code+Advocate;Always+Learning+🚀" />
-</p>
+# 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=0AE4F7&center=true&vCenter=true&width=700&lines=MOHAMED+ZAKARIA" alt="Mohamed Zakaria" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Mobile+Developer+📱;React+Native+%7C+Flutter+Expert;Clean+Code+Advocate;Building+Digital+Experiences+🚀" />
 
-<p align="center">
-  <!-- Contact Icons -->
-  <a href="mailto:Mohamed.Zakariaa.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/mohamedzakariaa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/MohamedZakaria9014" target="_blank">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedZakaria9014" alt="Profile Visitors">
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamed.Zakariaa.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedzakariaa/)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MohamedZakaria9014&left_color=gray&right_color=0AE4F7&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🌟 About Me
+### 🌟 About Me
 
-- 📱 Mobile Developer specialized in **React Native & Flutter**  
-- 🎓 Computer Science Graduate (**Ranked 9th**, GPA 3.5)  
-- 🔥 Passionate about building scalable mobile apps  
-- 🧠 Currently sharpening my **React Native** skills  
-- 🚀 Love turning ideas into real-world applications  
-- 📍 Based in Cairo, Egypt
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=02569B) 
-![Android](https://img.shields.io/badge/Android%20Fundamentals-20232A?style=for-the-badge&logo=android)
-
-### 💻 Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript) 
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript) 
-![Dart](https://img.shields.io/badge/Dart-20232A?style=for-the-badge&logo=dart) 
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python) 
-![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk) 
-![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql)
-
-### 🧠 Architecture & Management
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-20232A?style=for-the-badge&logo=redux) 
-![React Hooks](https://img.shields.io/badge/React%20Hooks-20232A?style=for-the-badge&logo=react) 
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-20232A?style=for-the-badge) 
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-20232A?style=for-the-badge) 
-![Agile](https://img.shields.io/badge/Agile%2FScrum-20232A?style=for-the-badge)
-
-### 🔥 Backend & Data
-![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase) 
-![Firestore](https://img.shields.io/badge/Cloud%20Firestore-20232A?style=for-the-badge&logo=firebase) 
-![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite) 
-![REST API](https://img.shields.io/badge/REST%20APIs-20232A?style=for-the-badge) 
-![Axios](https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios)
+<table align="center">
+  <tr>
+    <td width="50%">
+      <p>🚀 <b>Mobile Developer</b> specialized in React Native & Flutter.</p>
+      <p>🎓 <b>CS Graduate</b> - Ranked 9th in my class (GPA 3.5).</p>
+      <p>📍 Based in <b>Cairo, Egypt</b>.</p>
+    </td>
+    <td width="50%">
+      <p>🧠 Currently mastering <b>Advanced React Native</b>.</p>
+      <p>🔥 Passionate about <b>Scalable Architectures</b>.</p>
+      <p>🎮 Fun Fact: I enjoy <b>Game Development</b> in Unity.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack & Skills
 
-### 🏠 Home Sphere (Smart Home)
-> Remote monitoring and control of home devices with real-time database integration.
-- **Tech:** Arduino, C++, Firebase, Android Studio
-- [🔗 GitHub Repository](https://github.com/MohamedZakaria9014/Smart-Home-Automation-Project)
-
-### 📱 Home Sphere Mobile App
-> Seamless smart home control mobile app with authentication and real-time sync.
-- **Tech:** Flutter, Firebase, Android
-- [🔗 GitHub Repository](https://github.com/MohamedZakaria9014/Home-Sphere-Mobile-Application)
-
-### 🤖 OCR Application
-> ML-powered text recognition system with **95% accuracy**.
-- **Tech:** Python, TensorFlow, OpenCV
-- [🔗 GitHub Repository](https://github.com/MohamedZakaria9014/OCR-Project)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Architecture** | `Redux Toolkit` `React Hooks` `Clean Architecture` `SOLID` `Agile/Scrum` |
+| **Backend/DB** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) `REST APIs` `Axios` `Drizzle ORM` |
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedZakaria9014&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=MohamedZakaria9014&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZakaria9014&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 🚀 Featured Projects
+
+> [!TIP]
+> ### 🏠 Home Sphere (Full IoT Ecosystem)
+> A complete smart home solution featuring a **Flutter** mobile app and **Arduino** hardware.
+> - **Tech:** C++, Flutter, Firebase, Real-time Sync
+> - [**View Repository**](https://github.com/MohamedZakaria9014/Home-Sphere-Mobile-Application)
+
+> [!IMPORTANT]
+> ### 🤖 ML OCR System
+> High-accuracy text recognition engine built with TensorFlow.
+> - **Tech:** Python, TensorFlow, OpenCV (**95% Accuracy**)
+> - [**View Repository**](https://github.com/MohamedZakaria9014/OCR-Project)
 
 ---
 
-## 🤝 Connect With Me
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedZakaria9014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZakaria9014&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</div>
 
-<p align="center">
-  <a href="mailto:Mohamed.Zakariaa.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/mohamedzakariaa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/MohamedZakaria9014" target="_blank">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedZakaria9014" alt="Profile Visitors">
-  </a>
-</p>
+---
 
-<p align="center"> 
-  ⭐ From <b>Mohamed Zakaria</b> — Building the future one app at a time 🚀 
-</p>
+<div align="center">
+  <h3>Let's build something amazing together!</h3>
+  <p>⭐ From <b>Mohamed Zakaria</b> — Building the future one app at a time 🚀</p>
+</div>
