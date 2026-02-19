@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohamedzakaria9014"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Mohamed.Zakariaa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=MohamedZakaria9014&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
@@ -18,8 +18,8 @@
 
 <table align="center">
   <tr>
-    <td width="50%" style="border: none;">
-      <p>I am a <b>Computer Science Graduate (Ranked 9th, GPA 3.5)</b> from Cairo, Egypt. My mission is to build seamless, high-performance mobile experiences.</p>
+    <td width="55%" style="border: none;">
+      <p>I am a <b>Computer Science Graduate (Ranked 9th, GPA 3.5)</b> from Cairo, Egypt. My mission is to build seamless, high-performance mobile experiences that bridge the gap between complex backend logic and intuitive UI.</p>
       <ul>
         <li>🔭 <b>Currently:</b> Mastering <b>React Native</b> & Offline-First Architecture.</li>
         <li>🦋 <b>Expertise:</b> Cross-platform development with <b>Flutter</b>.</li>
@@ -27,7 +27,7 @@
         <li>🚀 <b>Goal:</b> Delivering scalable, real-world solutions.</li>
       </ul>
     </td>
-    <td width="50%" align="center" style="border: none;">
+    <td width="45%" align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZakaria9014&layout=compact&theme=tokyonight&hide_border=true" width="300px"/>
     </td>
   </tr>
@@ -48,12 +48,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-### 🏗️ Architecture & Tools
+### 🏗️ Architecture & Data
 <p align="left">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
