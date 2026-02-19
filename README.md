@@ -121,13 +121,7 @@ Currently building new projects with React Native.
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedZakaria9014&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZakaria9014&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" height="170"/>
-
-</div>
 
 ---
 
