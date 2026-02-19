@@ -150,7 +150,7 @@ Currently building new projects with React Native.
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MohamedZakaria9014&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7)](https://github.com/MohamedZakaria9014)
+[![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=MohamedZakaria9014&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7)](https://github.com/MohamedZakaria9014)
 
 </div>
 
