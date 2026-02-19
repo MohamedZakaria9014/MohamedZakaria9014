@@ -1,5 +1,6 @@
-# Hi 👋, I'm Mohamed Zakaria
-<h3 align="center">🚀 Mobile Developer | React Native & Flutter Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0AE4F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mohamed+Zakaria;🚀+Mobile+Developer+%7C+React+Native+%26+Flutter" />
+</p>
 
 <p align="center">
   <!-- Contact Icons -->
@@ -14,19 +15,15 @@
   </a>
 </p>
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AE4F7&center=true&vCenter=true&width=500&lines=Mobile+Developer+📱;React+Native+%7C+Flutter;Clean+Code+Advocate;Always+Learning+🚀" /> 
-</p>
-
 ---
 
 ## 🌟 About Me
 
-- 📱 Mobile Developer specialized in **React Native & Flutter**
-- 🎓 Computer Science Graduate (**Ranked 9th**, GPA 3.5)
-- 🔥 Passionate about building scalable mobile apps
-- 🧠 Currently sharpening my **React Native** skills
-- 🚀 Love turning ideas into real-world applications
+- 📱 Mobile Developer specialized in **React Native & Flutter**  
+- 🎓 Computer Science Graduate (**Ranked 9th**, GPA 3.5)  
+- 🔥 Passionate about building scalable mobile apps  
+- 🧠 Currently sharpening my **React Native** skills  
+- 🚀 Love turning ideas into real-world applications  
 - 📍 Based in Cairo, Egypt
 
 ---
