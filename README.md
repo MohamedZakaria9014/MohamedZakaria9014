@@ -1,9 +1,14 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Mohamed Zakaria</h1>
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AE4F7,100:6A5ACD&height=200&section=header&text=Mohamed%20Zakaria&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+
 <h3 align="center">🚀 Mobile Developer | React Native & Flutter Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AE4F7&center=true&vCenter=true&width=500&lines=Mobile+Developer+📱;React+Native+%7C+Flutter;Clean+Code+Advocate;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedZakaria9014&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -49,7 +54,7 @@
 
 ### 🔥 Backend & Data
 ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
-![Firestore](https://img.shields.io/badge/Cloud%20Firestore-20232A?style=for-the-badge&logo=firebase)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-20232A?style=for-the-badge&logo=firebase)
 ![Realtime DB](https://img.shields.io/badge/Realtime%20DB-20232A?style=for-the-badge&logo=firebase)
 ![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-20232A?style=for-the-badge)
@@ -110,7 +115,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedZakaria9014&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedZakaria9014&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
   <img src="https://streak-stats.demolab.com?user=MohamedZakaria9014&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
@@ -118,7 +123,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZakaria9014&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedZakaria9014/MohamedZakaria9014/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -133,7 +144,7 @@
 
 ## 🤝 Connect With Me
 
-- 📧 Email: Mohamed.Zakariaa.dev@gmail.com
+- 📧 Email: Mohamed.Zakariaa.dev@gmail.com  
 - 📍 Cairo, Egypt  
 - 💼 Always open to mobile development opportunities
 
@@ -142,3 +153,5 @@
 <p align="center">
   ⭐ From <b>Mohamed Zakaria</b> — Building the future one app at a time 🚀
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AE4F7,100:6A5ACD&height=120&section=footer"/>
