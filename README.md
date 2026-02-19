@@ -46,7 +46,7 @@
 > Remote monitoring and control of home devices with real-time database integration.
 
 **Tech:** Arduino, C++, Firebase, Android Studio  
-🔗 Repo: https://github.com/JakeKroeger/Smart-Home-Automation-Project
+🔗 Repo: https://github.com/MohamedZakaria9014/Smart-Home-Automation-Project
 
 ---
 
@@ -54,7 +54,7 @@
 > Seamless smart home control mobile app with authentication and real-time sync.
 
 **Tech:** Flutter, Firebase, Android  
-🔗 Repo: https://github.com/JakeKroeger/Home-Sphere-Mobile-Application
+🔗 Repo: https://github.com/MohamedZakaria9014/Home-Sphere-Mobile-Application
 
 ---
 
@@ -62,7 +62,7 @@
 > ML-powered text recognition system with **95% accuracy**.
 
 **Tech:** Python, TensorFlow, OpenCV  
-🔗 Repo: https://github.com/JakeKroeger/OCR-Project
+🔗 Repo: https://github.com/MohamedZakaria9014/OCR-Project
 
 ---
 
@@ -78,19 +78,19 @@
 > Responsive platform to manage pet listings and adoption requests.
 
 **Tech:** HTML, CSS, JavaScript, Node.js  
-🔗 Repo: https://github.com/JakeKroeger/Adoptito
+🔗 Repo: https://github.com/MohamedZakaria9014/Adoptito
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JakeKroeger&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeKroeger&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedZakaria9014&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedZakaria9014&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeKroeger&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZakaria9014&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
