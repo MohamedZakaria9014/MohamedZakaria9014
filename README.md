@@ -1,157 +1,90 @@
-<!-- Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AE4F7,100:6A5ACD&height=200&section=header&text=Mohamed%20Zakaria&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-
-<h3 align="center">🚀 Mobile Developer | React Native & Flutter Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AE4F7&center=true&vCenter=true&width=500&lines=Mobile+Developer+📱;React+Native+%7C+Flutter;Clean+Code+Advocate;Always+Learning+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AE4F7,100:6A5ACD&height=220&section=header&text=Mohamed%20Zakaria&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0AE4F7&center=true&vCenter=true&width=500&lines=Mobile+Developer+📱;React+Native+%7C+Flutter;Clean+Code+Advocate;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Mohamed.Zakariaa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=MohamedZakaria9014&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-- 📱 Mobile Developer specialized in **React Native & Flutter**
-- 🎓 Computer Science Graduate (Ranked 9th, GPA 3.5)
-- 🔥 Passionate about building scalable mobile apps
-- 🧠 Currently sharpening my **React Native** skills
-- 🚀 Love turning ideas into real-world applications
-- 📍 Based in Cairo, Egypt
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Android](https://img.shields.io/badge/Android%20Fundamentals-20232A?style=for-the-badge&logo=android)
-
----
-
-### 💻 Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-![Dart](https://img.shields.io/badge/Dart-20232A?style=for-the-badge&logo=dart)
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql)
+<table align="center">
+  <tr>
+    <td width="50%" style="border: none;">
+      <p>I am a <b>Computer Science Graduate (Ranked 9th, GPA 3.5)</b> from Cairo, Egypt. My mission is to build seamless, high-performance mobile experiences.</p>
+      <ul>
+        <li>🔭 <b>Currently:</b> Mastering <b>React Native</b> & Offline-First Architecture.</li>
+        <li>🦋 <b>Expertise:</b> Cross-platform development with <b>Flutter</b>.</li>
+        <li>🧠 <b>Core Principles:</b> Clean Architecture, SOLID, and Agile.</li>
+        <li>🚀 <b>Goal:</b> Delivering scalable, real-world solutions.</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZakaria9014&layout=compact&theme=tokyonight&hide_border=true" width="300px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧠 State Management & Architecture
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-20232A?style=for-the-badge&logo=redux)
-![React Hooks](https://img.shields.io/badge/React%20Hooks-20232A?style=for-the-badge&logo=react)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-20232A?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-20232A?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-20232A?style=for-the-badge)
+## 🛠️ Tech Universe
 
----
+### 📱 Mobile & Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-### 🔥 Backend & Data
-![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase)
-![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-20232A?style=for-the-badge&logo=firebase)
-![Realtime DB](https://img.shields.io/badge/Realtime%20DB-20232A?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-20232A?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20APIs-20232A?style=for-the-badge)
-![Axios](https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios)
-
----
-
-### ⚙️ Tools & IoT
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
-![Arduino](https://img.shields.io/badge/Arduino-20232A?style=for-the-badge&logo=arduino)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-20232A?style=for-the-badge)
+### 🏗️ Architecture & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 Smart Home Automation (Home Sphere)
-> Remote monitoring and control of home devices with real-time database integration.
-
-**Tech:** Arduino, C++, Firebase, Android Studio  
-🔗 Repo: https://github.com/MohamedZakaria9014/Smart-Home-Automation-Project
-
----
-
-### 📱 Home Sphere Mobile Application
-> Seamless smart home control mobile app with authentication and real-time sync.
-
-**Tech:** Flutter, Firebase, Android  
-🔗 Repo: https://github.com/MohamedZakaria9014/Home-Sphere-Mobile-Application
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🏠 Home Sphere** | Smart home control with real-time IoT sync. | Flutter, Firebase, Arduino | [View Repo](https://github.com/MohamedZakaria9014/Home-Sphere-Mobile-Application) |
+| **🤖 OCR Pro** | ML system for text recognition (95% accuracy). | Python, TensorFlow, OpenCV | [View Repo](https://github.com/MohamedZakaria9014/OCR-Project) |
+| **🐾 Adoptito** | A modern, responsive pet adoption platform. | Node.js, JS, HTML/CSS | [View Repo](https://github.com/MohamedZakaria9014/Adoptito) |
+| **🎮 Unity Game** | Top-down action game with custom AI. | C#, Unity | [Play Now](https://ghareb.itch.io/otherside) |
 
 ---
 
-### 🤖 OCR Application using TensorFlow
-> ML-powered text recognition system with **95% accuracy**.
-
-**Tech:** Python, TensorFlow, OpenCV  
-🔗 Repo: https://github.com/MohamedZakaria9014/OCR-Project
-
----
-
-### 🎮 Top-Down Game (Unity)
-> Implemented enemy AI, player damage system, and UI.
-
-**Tech:** Unity, C#  
-🎮 Play: https://ghareb.itch.io/otherside
-
----
-
-### 🐾 Adoptito – Pet Adoption Platform
-> Responsive platform to manage pet listings and adoption requests.
-
-**Tech:** HTML, CSS, JavaScript, Node.js  
-🔗 Repo: https://github.com/MohamedZakaria9014/Adoptito
-
----
-
-## 📊 GitHub Stats
+## 📈 Activity Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedZakaria9014&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=MohamedZakaria9014&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedZakaria9014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=MohamedZakaria9014&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedZakaria9014&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
+### 🐍 Contribution Journey
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohamedZakaria9014/MohamedZakaria9014/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🏆 Current Focus
-
-- 📱 Mastering **React Native**
-- 🦋 Building cross-platform apps with **Flutter**
-- 🔐 Exploring **Kotlin**
-- 🚀 Preparing for strong mobile developer roles
-
----
-
-## 🤝 Connect With Me
-
-- 📧 Email: Mohamed.Zakariaa.dev@gmail.com  
-- 📍 Cairo, Egypt  
-- 💼 Always open to mobile development opportunities
-
----
-
 <p align="center">
-  ⭐ From <b>Mohamed Zakaria</b> — Building the future one app at a time 🚀
+  ⭐ <i>Building the future, one commit at a time.</i><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AE4F7,100:6A5ACD&height=100&section=footer"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AE4F7,100:6A5ACD&height=120&section=footer"/>
