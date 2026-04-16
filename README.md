@@ -90,12 +90,12 @@ Smart home control app with authentication & real-time sync.
 <tr>
 <td width="50%">
 
-### 🤖 OCR Application
-ML-powered text recognition system with **95% accuracy**.
+### 🎨 Gallery Application
+A modern and lightweight **image gallery app** that allows users to browse, view, and manage photos with a smooth and intuitive UI experience.
 
-**Tech:** `Python` `TensorFlow` `OpenCV`
+**Tech:** `React Native` `Expo`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/OCR-Project)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/GalleryApp)
 
 </td>
 <td width="50%">
