@@ -95,7 +95,7 @@ A modern and lightweight **image gallery app** that allows users to browse, view
 
 **Tech:** `React Native` `Expo`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/GalleryApp)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/GalleryApplication)
 
 </td>
 <td width="50%">
