@@ -71,7 +71,7 @@ High-performance app for browsing large digital artwork collections, with optimi
 Cross-platform IoT system controlling 8+ smart appliances with under 100ms device-state sync, built on a lightweight reactive pipeline through Firebase Realtime Database. Includes biometric auth and encrypted payload validation.
 
 <div align="center">
-  <img src="assets/homeSphere.gif" alt="Home Sphere Preview" width="400" />
+  <img src="assets/homeSphere.gif" alt="Home Sphere Preview" width="800" />
 </div>
 
 [![Mobile App](https://img.shields.io/badge/Mobile_App-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/Home-Sphere-Mobile-Application)
