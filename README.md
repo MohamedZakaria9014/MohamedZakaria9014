@@ -59,8 +59,8 @@ Built with React Native, Expo, TypeScript, and Supabase, with secure authenticat
 High-performance app for browsing large digital artwork collections, with optimized image caching, lazy-loading, and list rendering for consistent 60 FPS scrolling on high-resolution media.
 
 <div align="center">
-  <img src="assets/Aura Gallery MU 2 (1).png" alt="Aura Gallery Preview 1" width="250" />
-  <img src="assets/Aura Gallery MU 3 (1).png" alt="Aura Gallery Preview 2" width="250" />
+  <img src="assets/Aura Gallery MU 2 (1).png" alt="Aura Gallery Preview 1" width="500" />
+  <img src="assets/Aura Gallery MU 3 (1).png" alt="Aura Gallery Preview 2" width="500" />
 </div>
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/AuraGallery)
