@@ -30,7 +30,7 @@ I'm currently building **BRDG**, a fashion marketplace helping customers discove
 
 **BRDG** *(Private Repository)*
 
-A fashion marketplace connecting local Egyptian brands with customers through a home try-on model — try clothes at home before you decide to buy.
+A fashion marketplace.
 
 Built with React Native, Expo, TypeScript, and Supabase, with secure authentication, role-based access for brands vs. customers, and order/delivery logistics to support a physical try-before-you-buy flow.
 
@@ -57,6 +57,7 @@ Built with React Native, Expo, TypeScript, and Supabase, with secure authenticat
 `React Native` `Expo` `TypeScript`
 
 High-performance app for browsing large digital artwork collections, with optimized image caching, lazy-loading, and list rendering for consistent 60 FPS scrolling on high-resolution media.
+![Aura Gallery Preview Pic](https://raw.githubusercontent.com/MohamedZakaria9014/AuraGallery/refs/heads/main/mockup/Aura%20Gallery%20MU.png)
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/AuraGallery)
 
