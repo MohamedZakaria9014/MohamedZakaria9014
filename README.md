@@ -1,144 +1,156 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed Zakaria
-### Mobile Developer · React Native & Flutter
+# Mohamed Zakaria
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=0AE4F7&center=true&vCenter=true&width=600&lines=React+Native+%26+Flutter+Developer+%F0%9F%93%B1;Clean+Architecture+Advocate+%F0%9F%8F%97%EF%B8%8F;CS+Graduate+%7C+Ranked+9th+%F0%9F%8E%93;Always+Building+%7C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+### Mobile Software Engineer
 
-<br/>
+Building scalable cross-platform mobile applications with **React Native**, **TypeScript**, **Expo**, and **Flutter**.
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamed.Zakariaa.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedzakariaa/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014)
-[![Profile Views](https://komarev.com/ghpvc/?username=MohamedZakaria9014&style=for-the-badge&color=0AE4F7&label=Profile+Views)](https://github.com/MohamedZakaria9014)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamed.Zakariaa.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
-```typescript
-const MohamedZakaria = {
-  role:       "Mobile Developer",
-  location:   "Cairo, Egypt 🇪🇬",
-  education:  "CS Graduate — Ranked 9th | GPA 3.5",
-  focus:      ["React Native", "Flutter", "Clean Architecture"],
-  currently:  "Sharpening React Native skills & building scalable apps",
-  passion:    "Turning ideas into real-world mobile experiences 🚀",
-};
-```
+I'm a **Mobile Software Engineer** passionate about building modern, scalable, and maintainable mobile applications.
+
+I enjoy transforming ideas into production-ready products with clean architecture, reusable components, and intuitive user experiences.
+
+My primary focus is building applications using **React Native**, **Expo**, **TypeScript**, and **Flutter**, while following software engineering best practices that scale beyond MVPs.
+
+Currently I'm building **BRDG**, a fashion marketplace.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+## Mobile
 
-### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- React Native
+- Expo
+- Flutter
+- Android
 
-### 🏗️ Architecture & State Management
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=for-the-badge&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-6DB33F?style=for-the-badge&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+## Languages
 
-### 🔥 Backend & Data
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Cloud_Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF5733?style=for-the-badge&logo=postman&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+- TypeScript
+- JavaScript
+- Dart
+- SQL
+- Java
+- Python
 
----
+## Backend & Databases
 
-## 🚀 Featured Projects
+- Supabase
+- Firebase
+- Firestore
+- SQLite
+- REST APIs
 
-<table>
-<tr>
-<td width="50%">
+## State Management
 
-### 🏠 Home Sphere — Smart Home System
-Remote monitoring & control of home devices with real-time database integration.
+- Redux Toolkit
+- React Context
+- React Hooks
 
-**Tech:** `Arduino` `C++` `Firebase` `Android Studio`
+## Tools
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/Smart-Home-Automation-Project)
-
-</td>
-<td width="50%">
-
-### 📱 Home Sphere — Mobile App
-Smart home control app with authentication & real-time sync.
-
-**Tech:** `Flutter` `Firebase` `Android`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/Home-Sphere-Mobile-Application)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 Gallery Application
-A modern and lightweight **image gallery app** that allows users to browse, view, and manage photos with a smooth and intuitive UI experience.
-
-**Tech:** `React Native` `Expo`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/GalleryApplication)
-
-</td>
-<td width="50%">
-
-### 🔜 More Coming Soon...
-Currently building new projects with React Native.
-
-**Stay tuned! 🚧**
-
-[![Follow](https://img.shields.io/badge/Follow_for_Updates-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014)
-
-</td>
-</tr>
-</table>
+- Git
+- GitHub
+- Figma
+- Android Studio
+- VS Code
+- Postman
 
 ---
 
-## 📊 GitHub Statistics
+# 🏗 Engineering Principles
+
+I enjoy writing software that is:
+
+- Clean and maintainable
+- Modular and reusable
+- Type-safe
+- Performance-conscious
+- Scalable
+- Easy to extend
+- User-focused
+
+---
+
+# 🚀 Featured Projects
+
+## 🛍 BRDG *(Private)*
+
+A production-ready fashion marketplace currently under active development.
+
+### Highlights
+
+- React Native
+- Expo
+- TypeScript
+- Supabase
+- Authentication
+- Role-Based Access Control
+- Shopping Cart
+- Delivery Management
+- Secure Backend
+- Clean Architecture
+
+> Repository is private while the product is under development.
+
+---
+
+## 🎨 Aura Gallery
+
+A modern gallery application built with React Native showcasing reusable architecture, responsive UI, and smooth user experience.
+
+**Tech**
+
+React Native • Expo • TypeScript
+
+---
+
+## 🏠 Home Sphere
+
+A smart home ecosystem consisting of a Flutter mobile application and an IoT control system powered by Firebase.
+
+**Tech**
+
+Flutter • Firebase • Arduino • C++
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously improving my knowledge in:
+
+- React Native Performance
+- Mobile Architecture
+- CI/CD
+- Automated Testing
+- Native Android
+- Native iOS
+- Backend Engineering
+
+---
+
+# 🎯 Career Goal
+
+I'm looking for opportunities where I can contribute as a **Mobile Software Engineer**, build meaningful products, collaborate with talented teams, and continue growing as an engineer.
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedZakaria9014&theme=tokyonight&hide_border=true" height="180"/>
+### Let's Build Something Great
 
-</div>
-
-
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedZakaria9014&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohamed%27s%20Contribution%20Graph)](https://github.com/MohamedZakaria9014)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://img.shields.io/badge/-%F0%9F%9A%80%20Building%20the%20future%20one%20app%20at%20a%20time-0AE4F7?style=for-the-badge)
-
-**⭐ If you like my work, consider giving a star to my repos!**
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedzakariaa/)
+[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamed.Zakariaa.dev@gmail.com)
 
 </div>
