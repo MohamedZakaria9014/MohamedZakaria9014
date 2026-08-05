@@ -2,11 +2,11 @@
 
 # Mohamed Zakaria
 
-### Mobile Software Engineer
+### React Native Mobile Engineer
 
-Building scalable cross-platform mobile applications with **React Native**, **TypeScript**, **Expo**, and **Flutter**.
+Building scalable cross-platform mobile applications with **React Native**, **TypeScript**, **Expo**, **Supabase**, and **Flutter**.
 
-📍 Cairo, Egypt • Open to Remote Opportunities
+📍 Cairo, Egypt
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedzakaria9014.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedzakariaa/)
@@ -16,77 +16,85 @@ Building scalable cross-platform mobile applications with **React Native**, **Ty
 
 ---
 
-## About
+# About
 
-Top 3% Computer Science graduate (ranked 9th of 350+) and Mobile Engineer specializing in React Native and Flutter. I build offline-first applications, IoT systems, and scalable mobile architectures — from a shipment-tracking app with outbox-pattern sync to an IoT control system running at sub-100ms latency.
+I'm a **React Native Mobile Engineer** passionate about building fast, maintainable, and scalable cross-platform mobile applications.
 
-Alongside development, I work as a Teaching Assistant, where I've mentored 100+ students and reviewed 50+ projects on architecture, debugging, and code quality.
+I graduated in the **Top 3% of my Computer Science class**, ranking **9th out of more than 350 students**, and currently serve as a **Teaching Assistant** at the Modern University for Information & Technology (MTI), where I mentor more than **100 students**, conduct code reviews, and help students improve their software architecture, debugging, and problem-solving skills.
 
-I'm currently building **BRDG**, a fashion marketplace helping customers discover local Egyptian brands through a home try-on experience.
-
----
-
-## Currently Building
-
-**BRDG** *(Private Repository)*
-
-A fashion marketplace connecting local Egyptian brands with customers through a home try-on model — try clothes at home before you decide to buy.
-
-Built with React Native, Expo, TypeScript, and Supabase, with secure authentication, role-based access for brands vs. customers, and order/delivery logistics to support a physical try-before-you-buy flow.
-
-*Repository is private during active development — happy to walk through the product and architecture directly.*
+My primary stack includes **React Native, TypeScript, Expo, Supabase, Firebase, SQLite, and PostgreSQL**. I enjoy building applications that solve real-world problems with a strong focus on clean architecture, performance, offline-first experiences, and intuitive user interfaces.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 | Category | Technologies |
 |---|---|
 | **Mobile** | React Native • Expo • Flutter • Android |
 | **Languages** | TypeScript • JavaScript • Dart • SQL • Java • Python |
-| **Backend** | Supabase • Firebase • Firestore • REST APIs |
+| **Backend** | Supabase • Firebase • REST APIs |
 | **Databases** | SQLite • PostgreSQL • Firestore |
-| **State Management** | Redux Toolkit • React Context • React Hooks |
-| **Tools** | Git • GitHub • Figma • Android Studio • VS Code • Postman |
+| **State Management** | Redux Toolkit • React Hooks |
+| **Tools** | Git • GitHub • Android Studio • VS Code • Figma • Postman |
+| **Engineering** | Clean Architecture • SOLID Principles • Agile/Scrum |
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Aura Gallery — Art Gallery App
-`React Native` `Expo` `TypeScript`
+## 🎨 Aura Gallery
 
-High-performance app for browsing large digital artwork collections, with optimized image caching, lazy-loading, and list rendering for consistent 60 FPS scrolling on high-resolution media.
+**React Native • Expo • TypeScript**
+
+High-performance mobile application for browsing large digital artwork collections with optimized image caching, lazy loading, reusable UI components, and smooth scrolling performance.
 
 <div align="center">
-  <img src="assets/Aura Gallery MU 2 (1).png" alt="Aura Gallery Preview 1" width="500" />
-  <img src="assets/Aura Gallery MU 3 (1).png" alt="Aura Gallery Preview 2" width="500" />
+
+<img src="assets/Aura Gallery MU 2 (1).png" width="500"/>
+
+<img src="assets/Aura Gallery MU 3 (1).png" width="500"/>
+
 </div>
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/AuraGallery)
 
-### Home Sphere — IoT Automation
-`Flutter` `Firebase` `Arduino` `C++`
+---
 
-Cross-platform IoT system controlling 8+ smart appliances with under 100ms device-state sync, built on a lightweight reactive pipeline through Firebase Realtime Database. Includes biometric auth and encrypted payload validation.
+## 🚚 FieldAgent Pro
+
+**React Native • SQLite • Drizzle ORM**
+
+Offline-first shipment management application featuring an outbox-pattern synchronization queue, bilingual (English/Arabic) support, local-first data persistence, and automatic synchronization when connectivity is restored.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/FieldAgentPro)
+
+---
+
+## 🏠 Home Sphere
+
+**Flutter • Firebase • Arduino**
+
+Cross-platform IoT automation system capable of controlling more than **8 smart appliances**, achieving **sub-100ms device synchronization** through Firebase Realtime Database while providing secure biometric authentication and encrypted communication.
 
 <div align="center">
-  <img src="assets/homeSphere.gif" alt="Home Sphere Preview" width="800" />
+
+<img src="assets/homeSphere.gif" width="800"/>
+
 </div>
 
 [![Mobile App](https://img.shields.io/badge/Mobile_App-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/Home-Sphere-Mobile-Application)
+
 [![IoT System](https://img.shields.io/badge/IoT_System-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/Smart-Home-Automation-Project)
 
 ---
 
-## Currently Learning
+# Let's Connect
 
-React Native Performance • Automated Testing • CI/CD Pipelines • System Design
+I'm always interested in discussing mobile development, software engineering, and new opportunities.
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedzakaria9014.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedzakariaa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamed.Zakariaa.dev@gmail.com)
 
-## Let's Connect
-
-Open to discussing mobile development, interesting projects, or new opportunities.
-
-[Portfolio](https://mohamedzakaria9014.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/mohamedzakariaa/) • [Email](mailto:Mohamed.Zakariaa.dev@gmail.com)
+</div>
