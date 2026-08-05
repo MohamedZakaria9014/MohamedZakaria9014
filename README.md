@@ -6,9 +6,13 @@
 
 Building scalable cross-platform mobile applications with **React Native**, **TypeScript**, **Expo**, and **Flutter**.
 
+📍 Cairo, Egypt &nbsp; • &nbsp; 🌍 Open to Remote Opportunities
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedzakaria9014.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedzakariaa/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamed.Zakariaa.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
 </div>
 
@@ -16,78 +20,57 @@ Building scalable cross-platform mobile applications with **React Native**, **Ty
 
 # 👋 About Me
 
-I'm a **Mobile Software Engineer** passionate about building modern, scalable, and maintainable mobile applications.
+I'm a **Mobile Software Engineer** passionate about designing and building modern, scalable mobile applications with a strong focus on clean architecture, maintainability, and user experience.
 
-I enjoy transforming ideas into production-ready products with clean architecture, reusable components, and intuitive user experiences.
+My primary stack is **React Native**, **Expo**, **TypeScript**, and **Flutter**, and I enjoy turning product ideas into production-ready applications that can scale.
 
-My primary focus is building applications using **React Native**, **Expo**, **TypeScript**, and **Flutter**, while following software engineering best practices that scale beyond MVPs.
+I'm currently building **BRDG**, a fashion marketplace that helps customers discover local Egyptian brands through a unique home try-on experience.
 
-Currently I'm building **BRDG**, a fashion marketplace.
+---
+
+# 🚀 Current Focus
+
+- 📱 Building **BRDG**
+- ⚡ React Native Performance
+- 🏗 Clean Architecture & Scalable Codebases
+- 🔐 Authentication & Backend Architecture
+- 🧪 Automated Testing
+- 🚀 CI/CD for Mobile Applications
 
 ---
 
 # 🛠 Tech Stack
 
-## Mobile
-
-- React Native
-- Expo
-- Flutter
-- Android
-
-## Languages
-
-- TypeScript
-- JavaScript
-- Dart
-- SQL
-- Java
-- Python
-
-## Backend & Databases
-
-- Supabase
-- Firebase
-- Firestore
-- SQLite
-- REST APIs
-
-## State Management
-
-- Redux Toolkit
-- React Context
-- React Hooks
-
-## Tools
-
-- Git
-- GitHub
-- Figma
-- Android Studio
-- VS Code
-- Postman
+| Category | Technologies |
+|-----------|--------------|
+| **Mobile** | React Native • Expo • Flutter • Android |
+| **Languages** | TypeScript • JavaScript • Dart • SQL • Java • Python |
+| **Backend** | Supabase • Firebase • Firestore • REST APIs |
+| **Databases** | SQLite • PostgreSQL • Firestore |
+| **State Management** | Redux Toolkit • React Context • React Hooks |
+| **Tools** | Git • GitHub • Figma • Android Studio • VS Code • Postman |
 
 ---
 
 # 🏗 Engineering Principles
 
-I enjoy writing software that is:
+I strive to build software that is:
 
-- Clean and maintainable
-- Modular and reusable
-- Type-safe
-- Performance-conscious
-- Scalable
-- Easy to extend
-- User-focused
+- ✅ Clean & Maintainable
+- ✅ Modular & Reusable
+- ✅ Strongly Typed
+- ✅ Performance Optimized
+- ✅ Scalable
+- ✅ User Focused
+- ✅ Easy to Extend
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛍 BRDG *(Private)*
+## 🛍 BRDG *(Private Repository)*
 
-A production-ready fashion marketplace currently under active development.
+A production-ready fashion marketplace connecting local Egyptian fashion brands with customers through an innovative **home try-on experience**.
 
 ### Highlights
 
@@ -95,34 +78,40 @@ A production-ready fashion marketplace currently under active development.
 - Expo
 - TypeScript
 - Supabase
-- Authentication
-- Role-Based Access Control
+- Secure Authentication
+- Role-Based Access Control (RBAC)
 - Shopping Cart
+- Order Management
 - Delivery Management
-- Secure Backend
 - Clean Architecture
 
-> Repository is private while the product is under development.
+> 🚧 This repository is private while the product is under active development.
 
 ---
 
 ## 🎨 Aura Gallery
 
-A modern gallery application built with React Native showcasing reusable architecture, responsive UI, and smooth user experience.
+A production-inspired gallery application showcasing reusable architecture, responsive layouts, and a polished mobile user experience.
 
-**Tech**
+**Tech Stack**
 
-React Native • Expo • TypeScript
+`React Native` `Expo` `TypeScript`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/AuraGallery)
 
 ---
 
 ## 🏠 Home Sphere
 
-A smart home ecosystem consisting of a Flutter mobile application and an IoT control system powered by Firebase.
+An IoT-powered smart home ecosystem allowing users to remotely monitor and control home devices in real time.
 
-**Tech**
+**Tech Stack**
 
-Flutter • Firebase • Arduino • C++
+`Flutter` `Firebase` `Arduino` `C++`
+
+[![Mobile App](https://img.shields.io/badge/Mobile_App-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/Home-Sphere-Mobile-Application)
+
+[![IoT System](https://img.shields.io/badge/IoT_System-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/Smart-Home-Automation-Project)
 
 ---
 
@@ -132,25 +121,33 @@ I'm continuously improving my knowledge in:
 
 - React Native Performance
 - Mobile Architecture
-- CI/CD
-- Automated Testing
 - Native Android
 - Native iOS
+- Automated Testing
+- CI/CD Pipelines
 - Backend Engineering
+- System Design
 
 ---
 
 # 🎯 Career Goal
 
-I'm looking for opportunities where I can contribute as a **Mobile Software Engineer**, build meaningful products, collaborate with talented teams, and continue growing as an engineer.
+I'm looking for opportunities where I can contribute as a **Mobile Software Engineer**, solve real-world problems, collaborate with talented teams, and build products that create meaningful impact.
 
 ---
 
 <div align="center">
 
-### Let's Build Something Great
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedzakariaa/)
-[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamed.Zakariaa.dev@gmail.com)
+I'm always open to discussing mobile development, interesting projects, startup ideas, or new opportunities.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamedzakaria9014.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedzakariaa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamed.Zakariaa.dev@gmail.com)
+
+---
+
+*"Great software is built one thoughtful decision at a time."*
 
 </div>
