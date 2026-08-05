@@ -65,6 +65,7 @@ High-performance app for browsing large digital artwork collections, with optimi
 `Flutter` `Firebase` `Arduino` `C++`
 
 Cross-platform IoT system controlling 8+ smart appliances with under 100ms device-state sync, built on a lightweight reactive pipeline through Firebase Realtime Database. Includes biometric auth and encrypted payload validation.
+![Home Sphere Preview Picture](https://private-user-images.githubusercontent.com/116835260/345228833-2b5fc165-dd80-4f9d-adaa-ecd60e5ea042.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU5NTAxMjMsIm5iZiI6MTc4NTk0OTgyMywicGF0aCI6Ii8xMTY4MzUyNjAvMzQ1MjI4ODMzLTJiNWZjMTY1LWRkODAtNGY5ZC1hZGFhLWVjZDYwZTVlYTA0Mi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwNVQxNzEwMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMmY4MjBmZTBjMDdmZmMwMjQ5ZjBhMDgxM2UwYzI0ZTFjNzQwOWUwNWJiOTNkMWFmMTk0YWZmMmUxZjQxMTYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.rlISz_Ys8hTryDUvzSx6XzYJoRWhdies6vij2oi05pk)
 
 [![Mobile App](https://img.shields.io/badge/Mobile_App-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/Home-Sphere-Mobile-Application)
 [![IoT System](https://img.shields.io/badge/IoT_System-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedZakaria9014/Smart-Home-Automation-Project)
