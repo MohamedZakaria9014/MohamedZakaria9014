@@ -28,6 +28,8 @@ My primary stack includes **React Native, TypeScript, Expo, Supabase, Firebase, 
 
 # Tech Stack
 
+<div align= "center">
+
 | Category | Technologies |
 |---|---|
 | **Mobile** | React Native • Expo • Flutter • Android |
@@ -37,6 +39,10 @@ My primary stack includes **React Native, TypeScript, Expo, Supabase, Firebase, 
 | **State Management** | Redux Toolkit • React Hooks |
 | **Tools** | Git • GitHub • Android Studio • VS Code • Figma • Postman |
 | **Engineering** | Clean Architecture • SOLID Principles • Agile/Scrum |
+  
+</div>
+
+
 
 ---
 
